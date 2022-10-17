@@ -1,6 +1,7 @@
 # FRONTCRUDMascotas
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
+Proyecto realizado en Angular, con estilos y funcionalidades de Angular Material.
+Se vincula con una base de datos SQL mediante backend hecho con .NET permitiendo ver, editar, crear y borrar mascotas de la base de datos.
 
 ## Development server
 
